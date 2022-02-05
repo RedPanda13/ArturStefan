@@ -53,6 +53,4 @@
 <img  src="https://github-readme-streak-stats.herokuapp.com/?user=ArturStefan&show_icons=true&locale=en&layout=compact&theme=dark&line_height=1" />
 </p> 
 </div>
- <p align = "center">
- <img height ="290" src="https://activity-graph.herokuapp.com/graph?username=ArturStefan&theme=dark">
-</p>
+
