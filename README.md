@@ -46,13 +46,13 @@
  ####  <img align='center' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="35"> Linguagens mais usadas em meus repositórios: <br>
 
    
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=ArturStefan&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArturStefan&layout=compact&langs_count=7&theme=radical"/>
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=ArturStefan&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArturStefan&layout=compact&langs_count=7&theme=dark"/>
 
 <p align = "center">
-<img  src="https://github-readme-streak-stats.herokuapp.com/?user=ArturStefan&show_icons=true&locale=en&layout=compact&theme=radical&line_height=1" />
+<img  src="https://github-readme-streak-stats.herokuapp.com/?user=ArturStefan&show_icons=true&locale=en&layout=compact&theme=dark&line_height=1" />
 </p> 
 </div>
  <p align = "center">
- <img height ="290" src="https://activity-graph.herokuapp.com/graph?username=ArturStefan&theme=redical">
+ <img height ="290" src="https://activity-graph.herokuapp.com/graph?username=ArturStefan&theme=dark">
 </p>
