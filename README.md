@@ -7,7 +7,7 @@
  #### 🙂 Um pouco sobre mim :
 
 - 👩‍💻 Sou formado em Análise e Desenvolvimento de Sistemas.
-- 🔭 Desenvolvedor Java na IBM/Santander.
+- 🔭 Desenvolvedor Java no Santander.
 - 💻 Atualmente utilizo Java, Spring boot, Python, Flask e PostgreSQL.
 - 😄 Pronomes: ele/dele.
 
